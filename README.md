@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## String
 |  |
@@ -34,4 +35,17 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
