@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
+| [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
+| [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
