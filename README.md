@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saathvik18/Leetcode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/2402-meeting-rooms-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saathvik18/Leetcode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saathvik18/Leetcode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
