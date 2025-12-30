@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saathvik18/Leetcode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0300-longest-increasing-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saathvik18/Leetcode-Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
