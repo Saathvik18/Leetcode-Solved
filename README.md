@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Saathvik18/Leetcode-Solved/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
